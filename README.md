@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! I'm a passionate web developer and software engineering student, currently focused on building full-stack web applications using PHP (Slim Framework), JavaScript, and modern front-end technologies. I enjoy turning ideas into clean, functional code and exploring new tools that make development more efficient. Right now, I’m working on a university programme and module information system built with Slim PHP and standards-compliant HTML/CSS/JS.<br><br>Always learning, always building. Let’s connect and create something awesome!<br><br>
+Hi there! I'm a passionate web developer and software engineering student, currently focused on building full-stack web applications using PHP (Slim Framework), JavaScript, and modern front-end technologies. I enjoy turning ideas into clean, functional code and exploring new tools that make development more efficient.<br>Always learning, always building. Let’s connect and create something awesome!<br><br>
 
 
 ## 🌐 Socials:
